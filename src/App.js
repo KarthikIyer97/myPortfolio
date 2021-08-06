@@ -11,6 +11,9 @@ import Slide from "react-reveal/Slide";
 import Container from "react-bootstrap/Container";
 import Skills from './pages/skills/skills.component'
 import Projectsdone from "./pages/projectsdone/projectdone";
+import ProjectTimeline from './components/projecttimeline/project'
+import Contact from './pages/contact/contact';
+import Footer from './components/footer/footer';
 
 const App = () => {
   return (
@@ -51,6 +54,24 @@ const App = () => {
           </Fade>
         </Container>
       </div>
+      <div>
+        <Container className="container-box rounded">
+          <Slide bottom duration={500}>
+            <hr />
+            <ProjectTimeline />
+          </Slide>
+        </Container>
+      </div>
+      <div>
+        <Container className="container-box rounded">
+          <Slide bottom duration={500}>
+            <hr />
+            <Contact />
+          </Slide>
+        </Container>
+      </div>
+      <hr />
+      <Footer />
 
 
     </div>
