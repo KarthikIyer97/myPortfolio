@@ -26,11 +26,11 @@ const About = () => {
                                 Hi there! I am <strong>&nbsp;Karthik Iyer</strong>
                                 <br />A passionate programmer , born and brought up in India. I have Done my Course in Full Stack Web Developer with Html, CSS, JS , React.js, Express.js, Node.js, and MongoDB as my tech stack.
                 <br />
-                In 2021, I successfully completed my Engineering with specialization in 'Electronics".
+                In 2021, I have successfully completed my Engineering with specialization in 'Electronics".
                 <br />
-                I Have done Various Project ,as you can see my resume and some of the most interesting project i have done is LinkedIn clone, Covid-19 Tracker and Netflix clone😄
+                I have done Various Project ,as you can see my in resume and some of the most interesting project I have done is LinkedIn clone, Covid-19 Tracker and Netflix clone.
                 <br />
-                And I have changed my path to IT field because I love coding, and I am interested in making Web applications, and the best part is I love to find the error and solve it by myself.
+                And I have changed my path to IT field because I love coding, and I am interested in making Web applications, and the best part is I love finding the error and solving it by myself.
                 <br />I love learning new technologies,and work on my skillset.
                 <br /> <br />
                                 <Col className="d-flex justify-content-center flex-wrap">
