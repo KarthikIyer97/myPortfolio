@@ -242,13 +242,13 @@ const ProjectTimeline = () => {
                   href="https://reactblog22.herokuapp.com/"
                   target="_blank"
                 >
-                  SEE Live
+                  SEE LIVE
                 </UrlButton>
                 <UrlButton
                   href="https://github.com/KarthikIyer97/reactblog"
                   target="_blank"
                 >
-                  Source Code
+                  SOURCE CODE
                 </UrlButton>
               </div>
             </div>
